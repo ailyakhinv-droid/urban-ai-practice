@@ -694,7 +694,9 @@ def main():
 
     out_file = Path("dashboard.html")
     out_file.write_text(html_template, encoding="utf-8")
-    print(f"Дашборд успешно сгенерирован: {out_file.resolve()} ({out_file.stat().st_size:,} байт)")
+    index_file = Path("index.html")
+    index_file.write_text(html_template, encoding="utf-8")
+    print(f"Дашборд успешно сгенерирован: {out_file.resolve()} и index.html ({out_file.stat().st_size:,} байт)")
 
 
 if __name__ == "__main__":
