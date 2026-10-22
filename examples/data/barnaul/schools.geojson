@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "schools",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "capacity": 250.0 }, "geometry": { "type": "Point", "coordinates": [ 83.776165919877812, 53.352420860420217 ] } },
+{ "type": "Feature", "properties": { "capacity": 250.0 }, "geometry": { "type": "Point", "coordinates": [ 83.779136774448489, 53.35212142894818 ] } },
+{ "type": "Feature", "properties": { "capacity": 250.0 }, "geometry": { "type": "Point", "coordinates": [ 83.768887206744438, 53.359462786557735 ] } },
+{ "type": "Feature", "properties": { "capacity": 250.0 }, "geometry": { "type": "Point", "coordinates": [ 83.77631521396853, 53.356527182059835 ] } },
+{ "type": "Feature", "properties": { "capacity": 250.0 }, "geometry": { "type": "Point", "coordinates": [ 83.791014006865524, 53.363892961998801 ] } },
+{ "type": "Feature", "properties": { "capacity": 250.0 }, "geometry": { "type": "Point", "coordinates": [ 83.717373554835717, 53.37615782211558 ] } },
+{ "type": "Feature", "properties": { "capacity": 250.0 }, "geometry": { "type": "Point", "coordinates": [ 83.723026131608975, 53.379656506144222 ] } },
+{ "type": "Feature", "properties": { "capacity": 250.0 }, "geometry": { "type": "Point", "coordinates": [ 83.723468449970895, 53.384322707316805 ] } },
+{ "type": "Feature", "properties": { "capacity": 250.0 }, "geometry": { "type": "Point", "coordinates": [ 83.716781540011269, 53.379883506271561 ] } },
+{ "type": "Feature", "properties": { "capacity": 250.0 }, "geometry": { "type": "Point", "coordinates": [ 83.726325243311877, 53.385429536332907 ] } },
+{ "type": "Feature", "properties": { "capacity": 250.0 }, "geometry": { "type": "Point", "coordinates": [ 83.728926561723483, 53.374213776951592 ] } },
+{ "type": "Feature", "properties": { "capacity": 250.0 }, "geometry": { "type": "Point", "coordinates": [ 83.745115602872232, 53.374028898944921 ] } },
+{ "type": "Feature", "properties": { "capacity": 250.0 }, "geometry": { "type": "Point", "coordinates": [ 83.7373223191194, 53.378353774458979 ] } },
+{ "type": "Feature", "properties": { "capacity": 250.0 }, "geometry": { "type": "Point", "coordinates": [ 83.737895315037591, 53.372651075184471 ] } },
+{ "type": "Feature", "properties": { "capacity": 250.0 }, "geometry": { "type": "Point", "coordinates": [ 83.731691770764442, 53.3817654139567 ] } }
+]
+}

@@ -42,3 +42,8 @@ ENV/
 
 # PyCharm env
 .idea
+/data/
+cache/
+examples/cache/
+.vscode/
+examples/data/barnaul/acc_mx_walk.csv
